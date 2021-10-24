@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-
+/* css for header */
 
 header {
     padding: 20px;
@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-
+/* css for just hero section */
 
 .hero {
     height: 800px;
@@ -65,7 +65,7 @@ p {
     background-position: center;
 }
 
-
+/* css for left side content (which I called main/company offerings) */
 
 main {
     width: 75%;
@@ -101,7 +101,7 @@ main {
     margin-left: 25px;
 }
 
-
+/* css for right side content (which I called aside/benefits) */
 
 .benefits {
     margin-right: 20px;
@@ -130,7 +130,7 @@ main {
     max-width: 150px;
 }
 
-
+/* css for footer */
 
 footer {
     padding: 30px;
