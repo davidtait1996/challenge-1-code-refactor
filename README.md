@@ -25,19 +25,19 @@ CSS
 
 ## Header and Hero Screenshot
 
-![Header](./assets/images/screenshot1.png)
+![Header](assets/images/screenshot1.png)
 
 ---
 
 ## Content Screenshot
 
-![Content](./assets/images/screenshot2.png)
+![Content](assets/images/screenshot2.png)
 
 ---
 
 ## Content and Footer Screenshot
 
-![Footer](./assets/images/screenshot3.png)
+![Footer](assets/images/screenshot3.png)
 
 ---
 
