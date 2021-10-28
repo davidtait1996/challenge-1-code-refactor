@@ -25,19 +25,19 @@ CSS
 
 ## Header and Hero Screenshot
 
-![Header](assets/images/screenshot1.png)
+![Header](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/assets/images/screenshot1.PNG?raw=true)
 
 ---
 
 ## Content Screenshot
 
-![Content](assets/images/screenshot2.png)
+![Content](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/assets/images/screenshot2.PNG?raw=true)
 
 ---
 
 ## Content and Footer Screenshot
 
-![Footer](assets/images/screenshot3.png)
+![Footer](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/assets/images/screenshot3.PNG?raw=true)
 
 ---
 
